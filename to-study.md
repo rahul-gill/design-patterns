@@ -1,0 +1,6 @@
+- original intent/need; exhaustive usages(e.g. you might be think command as only lambda but book also discussesd undo-redo, serializability etc. things)
+- modern applicability
+    - if using pure java 21
+    - if using spring boot + java 21
+    - making services for distributed systems(original book focused a lot on UI applicationas)
+    -  how the pattern adheres/violates common software principles
